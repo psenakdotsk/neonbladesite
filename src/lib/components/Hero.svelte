@@ -16,7 +16,7 @@
         <img src="/logo.png" alt="neonblade logo" class="max-w-[50%] mb-6">
         <ButtonGroup>
             <Button href="https://voidcreature3892.itch.io/neonblade">Download (itch.io)</Button>
-            <Button href="https://drive.google.com/file/d/1fpOSxy9WJSkYpFOLHxkvbff2MkNiYlP8/view">Download (Google Drive mirror)</Button>
+            <Button variant="secondary" href="https://drive.google.com/file/d/1fpOSxy9WJSkYpFOLHxkvbff2MkNiYlP8/view">Download (Google Drive mirror)</Button>
         </ButtonGroup>
     </div>
 </div>
