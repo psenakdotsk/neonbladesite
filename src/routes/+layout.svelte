@@ -8,7 +8,7 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>neon/BLADE</title>
+	<title>neon\\BLADE</title>
 </svelte:head>
 
 {@render children()}

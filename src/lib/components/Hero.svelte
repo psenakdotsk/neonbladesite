@@ -13,7 +13,9 @@
 
 <div class="hero relative w-full h-screen">
     <div class="absolute inset-0 flex flex-col items-center justify-center z-10 bg-background/50">
-        <img src="/logo.png" alt="neonblade logo" class="max-w-[50%] mb-6">
+        <img src="/logo.png" alt="neonblade logo" class="max-w-[50%]">
+        <h2 class="mt-0">Availible now!</h2>
+        <br>
         <ButtonGroup>
             <Button href="https://voidcreature3892.itch.io/neonblade">Download (itch.io)</Button>
             <Button variant="secondary" href="https://drive.google.com/file/d/1fpOSxy9WJSkYpFOLHxkvbff2MkNiYlP8/view">Download (Google Drive mirror)</Button>

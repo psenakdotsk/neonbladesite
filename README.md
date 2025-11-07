@@ -1,3 +1,29 @@
+# neon\\BLADE (website)
+
+This is the source code of the website of the game neon\\BLADE (https://neonblade.pages.dev)
+
+# File structure
+
+## /static/ss
+Screenshots of the game
+
+## /src/rotes/PageContent.svelte
+Contents of the page
+
+## /src/lib/components
+### ./ui
+shadcn/svelte components
+
+### ./Hero.svelte
+The hero section
+
+### ./Footer.svelte
+Site footer
+
+---
+
+Everything bellow is the original svelte cli readme
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
