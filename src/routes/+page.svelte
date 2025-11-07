@@ -4,6 +4,6 @@
 </script>
 
 <Hero />
-<div class="p-4 m-0">
+<div class="p-4 m-0 text-center">
     <PageContent />
 </div>
