@@ -7,6 +7,8 @@
 <p>Step into the neon underworld of neon\\BLADE, a fast-paced 2.5D platformer shooter set in a fractured cyberpunk city. Blast your way through enemies in the way and proceed to do your calling.
 Take back the city — one bullet at a time.</p>
 
+<br><br>
+
 <h1>Core features</h1>
 <div class="grid grid-cols-3 grid-rows-2 gap-4">
     <div class="border-solid border-2 rounded-xl border-ring p-2">
@@ -35,6 +37,7 @@ Take back the city — one bullet at a time.</p>
     </div>
 </div>
 
+<br><br>
 
 <h1>"Assimilation is not optional."</h1>
 <p>Watch the trailer</p>
