@@ -30,8 +30,8 @@ small {font-size: 0.750rem; /* 12px */}
 :root {
 --text: #e7e9fd;
 --background: #1a1c32;
---primary: #25e5fe;
---secondary: #0cca68;
+--primary: rgb(67, 224, 255);
+--secondary: #42f6c9;
 --accent: #a3006a;
 
 --radius: 0.625rem;

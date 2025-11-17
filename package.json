@@ -27,5 +27,5 @@
 	"dependencies": {
 		"@sveltejs/adapter-static": "^3.0.10"
 	},
-	"packageManager": "pnpm@10.20.0"
+	"packageManager": "pnpm@10.22.0"
 }

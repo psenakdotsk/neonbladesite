@@ -5,15 +5,14 @@
 
 <style>
     .hero {
-        background-image: url('/ss/Screenshot_2025-11-03_183338.png');
+        background-image: url('/bg.png');
         background-size: cover;
         background-position: center;
     }
 </style>
 
 <div class="hero relative w-full h-screen">
-    <div class="absolute inset-0 flex flex-col items-center justify-center z-10 bg-background/50">
-        <img src="/logo.png" alt="neonblade logo" class="max-w-[50%]">
+    <div class="absolute inset-0 flex flex-col items-center justify-center z-10">
         <h2 class="mt-0">Availible now!</h2>
         <br>
         <ButtonGroup>
