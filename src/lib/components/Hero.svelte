@@ -17,7 +17,7 @@
         <br>
         <ButtonGroup>
             <Button href="https://voidcreature3892.itch.io/neonblade">Download (itch.io)</Button>
-            <Button variant="secondary" href="https://drive.google.com/file/d/1fpOSxy9WJSkYpFOLHxkvbff2MkNiYlP8/view">Download (Google Drive mirror)</Button>
+            <Button variant="secondary" href="#">Speedrun leaderboard (coming soon)</Button>
         </ButtonGroup>
     </div>
 </div>
